@@ -1,0 +1,1851 @@
+{
+    "AP Rounds I": [
+        "Modules.Weapon Rigs"
+    ],
+    "AP Rounds II": [
+        "Modules.Weapon Rigs"
+    ],
+    "Afterburner-S I": [
+        "Modules.Subsystems"
+    ],
+    "Afterburner-S II": [
+        "Modules.Subsystems"
+    ],
+    "Afterburner-S III": [
+        "Modules.Subsystems"
+    ],
+    "Ancient Fuel Injector": [
+        "Modules.Engine Rigs"
+    ],
+    "Armchair": [
+        "Furniture.Seating"
+    ],
+    "Astero blueprint": [
+        "Blueprints"
+    ],
+    "Banner (CoreSec)": [
+        "Furniture.electronics"
+    ],
+    "Banner (Foralkan)": [
+        "Furniture.electronics"
+    ],
+    "Banner (Lycentian)": [
+        "Furniture.electronics"
+    ],
+    "Banner (Trade Union)": [
+        "Furniture.electronics"
+    ],
+    "Barracuda blueprint": [
+        "Blueprints"
+    ],
+    "Battery I": [
+        "Modules.Reactor Rigs"
+    ],
+    "Battery II": [
+        "Modules.Reactor Rigs"
+    ],
+    "Battery III": [
+        "Modules.Reactor Rigs"
+    ],
+    "Beam I": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Beam II": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Beam III": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Beam-M I": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Beam-M II": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Beam-M III": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Blaster I": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Blaster II": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Blaster III": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Blaster-M I": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Blaster-M II": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Blaster-M III": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Blink Drive I": [
+        "Modules.Subsystems"
+    ],
+    "Blink Drive II": [
+        "Modules.Subsystems"
+    ],
+    "Blink Drive III": [
+        "Modules.Subsystems"
+    ],
+    "Box shelf": [
+        "Furniture.Shelves"
+    ],
+    "Candiru blueprint": [
+        "Blueprints"
+    ],
+    "Cannon I": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Cannon II": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Cannon III": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Cannon-M I": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Cannon-M II": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Cannon-M III": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Christmas tree": [
+        "Furniture.Plants"
+    ],
+    "Coilgun I": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Coilgun II": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Coilgun III": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Coilgun-M I": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Coilgun-M II": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Coilgun-M III": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Composite Armor I": [
+        "Modules.Defense Rigs"
+    ],
+    "Composite Armor II": [
+        "Modules.Defense Rigs"
+    ],
+    "Composite Armor III": [
+        "Modules.Defense Rigs"
+    ],
+    "Conciliator blueprint": [
+        "Blueprints"
+    ],
+    "CoreSec Targeter I": [
+        "Modules.Weapon Rigs"
+    ],
+    "Couch (center)": [
+        "Furniture.Seating"
+    ],
+    "Couch (left)": [
+        "Furniture.Seating"
+    ],
+    "Couch (right)": [
+        "Furniture.Seating"
+    ],
+    "Counter": [
+        "Furniture.Counters"
+    ],
+    "Counter (bar)": [
+        "Furniture.Counters"
+    ],
+    "Curved bench": [
+        "Furniture.Seating"
+    ],
+    "Curved chair": [
+        "Furniture.Seating"
+    ],
+    "Display case": [
+        "Furniture.Displays"
+    ],
+    "Display shelf": [
+        "Furniture.Displays"
+    ],
+    "Disruptor I": [
+        "Modules.Subsystems"
+    ],
+    "Disruptor II": [
+        "Modules.Subsystems"
+    ],
+    "Disruptor III": [
+        "Modules.Subsystems"
+    ],
+    "Double rounded bed": [
+        "Furniture.Beds"
+    ],
+    "Dread Coilgun blueprint": [
+        "Blueprints"
+    ],
+    "Dread Coilgun-M blueprint": [
+        "Blueprints"
+    ],
+    "Dread Flak blueprint": [
+        "Blueprints"
+    ],
+    "Dread Railgun blueprint": [
+        "Blueprints"
+    ],
+    "Dread Railgun-M blueprint": [
+        "Blueprints"
+    ],
+    "Dread Shrapnel blueprint": [
+        "Blueprints"
+    ],
+    "Drone Targeter I": [
+        "Modules.Weapon Rigs"
+    ],
+    "Drone Targeter II": [
+        "Modules.Weapon Rigs"
+    ],
+    "Eclipse Helmet": [
+        "Armor.Light"
+    ],
+    "Eclipse Legs": [
+        "Armor.Light"
+    ],
+    "Eclipse Torso": [
+        "Armor.Light"
+    ],
+    "Edict blueprint": [
+        "Blueprints"
+    ],
+    "Endtable": [
+        "Furniture.Tables"
+    ],
+    "Energy Booster I": [
+        "Modules.Subsystems"
+    ],
+    "Energy Booster II": [
+        "Modules.Subsystems"
+    ],
+    "Energy Booster III": [
+        "Modules.Subsystems"
+    ],
+    "Engine Gimbals I": [
+        "Modules.Engine Rigs"
+    ],
+    "Engine Gimbals II": [
+        "Modules.Engine Rigs"
+    ],
+    "Engine Gimbals III": [
+        "Modules.Engine Rigs"
+    ],
+    "Enhanced Deflectors I": [
+        "Modules.Defense Rigs"
+    ],
+    "Enhanced Deflectors II": [
+        "Modules.Defense Rigs"
+    ],
+    "Enhanced Deflectors III": [
+        "Modules.Defense Rigs"
+    ],
+    "Enhanced Servos I": [
+        "Modules.Weapon Rigs"
+    ],
+    "Enhanced Servos II": [
+        "Modules.Weapon Rigs"
+    ],
+    "Enhanced Servos III": [
+        "Modules.Weapon Rigs"
+    ],
+    "Eos blueprint": [
+        "Blueprints"
+    ],
+    "Exhaust Restrictor I": [
+        "Modules.Engine Rigs"
+    ],
+    "Exhaust Restrictor II": [
+        "Modules.Engine Rigs"
+    ],
+    "Exhaust Restrictor III": [
+        "Modules.Engine Rigs"
+    ],
+    "Firework": [
+        "Deployables.Fireworks"
+    ],
+    "Firework (snowflake)": [
+        "Deployables.Fireworks"
+    ],
+    "Flak I": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Flak II": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Flak III": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Foralkan Targeter I": [
+        "Modules.Weapon Rigs"
+    ],
+    "Foralkan Targeter II": [
+        "Modules.Weapon Rigs"
+    ],
+    "Fuel Injector I": [
+        "Modules.Engine Rigs"
+    ],
+    "Fuel Injector II": [
+        "Modules.Engine Rigs"
+    ],
+    "Fuel Injector III": [
+        "Modules.Engine Rigs"
+    ],
+    "Galaxy blueprint": [
+        "Blueprints"
+    ],
+    "HE Rounds I": [
+        "Modules.Weapon Rigs"
+    ],
+    "HE Rounds II": [
+        "Modules.Weapon Rigs"
+    ],
+    "Hardlight Shields I": [
+        "Modules.Defense Rigs"
+    ],
+    "Hardlight Shields II": [
+        "Modules.Defense Rigs"
+    ],
+    "Hardlight Shields III": [
+        "Modules.Defense Rigs"
+    ],
+    "Heat Sink I": [
+        "Modules.Weapon Rigs"
+    ],
+    "Heat Sink II": [
+        "Modules.Weapon Rigs"
+    ],
+    "Heat Sink III": [
+        "Modules.Weapon Rigs"
+    ],
+    "Heavy Bolt I": [
+        "Modules.Weapon Rigs"
+    ],
+    "Heavy Bolt II": [
+        "Modules.Weapon Rigs"
+    ],
+    "Heavy Bolt III": [
+        "Modules.Weapon Rigs"
+    ],
+    "Heavy Hull Repairer I": [
+        "Modules.Subsystems"
+    ],
+    "Heavy Hull Repairer II": [
+        "Modules.Subsystems"
+    ],
+    "Heavy Hull Repairer III": [
+        "Modules.Subsystems"
+    ],
+    "Heavy Sensor Janmer I": [
+        "Modules.Subsystems"
+    ],
+    "Heavy Shield Repairer I": [
+        "Modules.Subsystems"
+    ],
+    "Heavy Shield Repairer II": [
+        "Modules.Subsystems"
+    ],
+    "Heavy Shield Repairer III": [
+        "Modules.Subsystems"
+    ],
+    "Holo plant": [
+        "Furniture.Plants",
+        "Furniture.electronics"
+    ],
+    "Holoprojector (CoreSec)": [
+        "Furniture.electronics"
+    ],
+    "Holoprojector (Foralkan)": [
+        "Furniture.electronics"
+    ],
+    "Holoprojector (Lycentian)": [
+        "Furniture.electronics"
+    ],
+    "Holoprojector (Mining Guild)=": [
+        "Furniture.electronics"
+    ],
+    "Holoprojector (Trade Union)": [
+        "Furniture.electronics"
+    ],
+    "Hornbill blueprint": [
+        "Blueprints"
+    ],
+    "Houseplant": [
+        "Furniture.Plants"
+    ],
+    "Hull Booster I": [
+        "Modules.Subsystems"
+    ],
+    "Hull Booster II": [
+        "Modules.Subsystems"
+    ],
+    "Hull Booster III": [
+        "Modules.Subsystems"
+    ],
+    "Hybrid Beam blueprint": [
+        "Blueprints"
+    ],
+    "Hybrid Beam-M blueprint": [
+        "Blueprints"
+    ],
+    "Hybrid Blaster blueprint": [
+        "Blueprints"
+    ],
+    "Hybrid Blaster-M blueprint": [
+        "Blueprints"
+    ],
+    "Hybrid Cannon blueprint": [
+        "Blueprints"
+    ],
+    "Hybrid Cannon-M blueprint": [
+        "Blueprints"
+    ],
+    "Hybrid Claymore blueprint": [
+        "Blueprints"
+    ],
+    "Hybrid Ion": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Hybrid Ion Rounds": [
+        "Modules.Weapon Rigs"
+    ],
+    "Hybrid Ion-M": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Hybrid Luminar blueprint": [
+        "Blueprints"
+    ],
+    "Hybrid Paragon blueprint": [
+        "Blueprints"
+    ],
+    "Hybrid Polaris blueprint": [
+        "Blueprints"
+    ],
+    "Ice Miner I": [
+        "Turrets.Miner",
+        "Turrets.Small"
+    ],
+    "Ice Miner II": [
+        "Turrets.Miner",
+        "Turrets.Small"
+    ],
+    "Ion I": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Ion II": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Ion III": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Ion Rounds I": [
+        "Modules.Weapon Rigs"
+    ],
+    "Ion Rounds II": [
+        "Modules.Weapon Rigs"
+    ],
+    "Ion Rounds III": [
+        "Modules.Weapon Rigs"
+    ],
+    "Ion-M I": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Ion-M II": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Ion-M III": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Jockey Helmet": [
+        "Armor.Heavy"
+    ],
+    "Jockey Legs": [
+        "Armor.Heavy"
+    ],
+    "Jockey Torso": [
+        "Armor.Heavy"
+    ],
+    "Judicator blueprint": [
+        "Blueprints"
+    ],
+    "Justice blueprint": [
+        "Blueprints"
+    ],
+    "Knifejaw blueprint": [
+        "Blueprints"
+    ],
+    "Koronis blueprint": [
+        "Blueprints"
+    ],
+    "Liberty blueprint": [
+        "Blueprints"
+    ],
+    "Light Hull Repairer I": [
+        "Modules.Subsystems"
+    ],
+    "Light Hull Repairer II": [
+        "Modules.Subsystems"
+    ],
+    "Light Hull Repairer III": [
+        "Modules.Subsystems"
+    ],
+    "Light Sensor Jammer I": [
+        "Modules.Subsystems"
+    ],
+    "Light Shield Repairer I": [
+        "Modules.Subsystems"
+    ],
+    "Light Shield Repairer II": [
+        "Modules.Subsystems"
+    ],
+    "Light Shield Repairer III": [
+        "Modules.Subsystems"
+    ],
+    "Lightburner-L III": [
+        "Modules.Subsystems"
+    ],
+    "Lightburner-M III": [
+        "Modules.Subsystems"
+    ],
+    "Lightburner-S III": [
+        "Modules.Subsystems"
+    ],
+    "Lightweight Engines I": [
+        "Modules.Engine Rigs"
+    ],
+    "Lightweight Engines II": [
+        "Modules.Engine Rigs"
+    ],
+    "Lightweight Engines III": [
+        "Modules.Engine Rigs"
+    ],
+    "Loxodon blueprint": [
+        "Blueprints"
+    ],
+    "Lucent blueprint": [
+        "Blueprints"
+    ],
+    "Luster blueprint": [
+        "Blueprints"
+    ],
+    "Lycentian Targeter I": [
+        "Modules.Weapon Rigs"
+    ],
+    "Lycentian Targeter II": [
+        "Modules.Weapon Rigs"
+    ],
+    "Macaw blueprint": [
+        "Blueprints"
+    ],
+    "Mackerel blueprint": [
+        "Blueprints"
+    ],
+    "Marine Helmet": [
+        "Armor.Heavy",
+        "Armor.Sold by Station"
+    ],
+    "Marine Legs": [
+        "Armor.Heavy",
+        "Armor.Sold by Station"
+    ],
+    "Marine Torso": [
+        "Armor.Heavy",
+        "Armor.Sold by Station"
+    ],
+    "Medium Hull Repairer II": [
+        "Modules.Subsystems"
+    ],
+    "Medium Hull Repairer III": [
+        "Modules.Subsystems"
+    ],
+    "Medium Hulll Repairer I": [
+        "Modules.Subsystems"
+    ],
+    "Medium Shield Repairer I": [
+        "Modules.Subsystems"
+    ],
+    "Medium Shield Repairer II": [
+        "Modules.Subsystems"
+    ],
+    "Medium Shield Repairer III": [
+        "Modules.Subsystems"
+    ],
+    "Miner I": [
+        "Turrets.Miner",
+        "Turrets.Small"
+    ],
+    "Miner II": [
+        "Turrets.Miner",
+        "Turrets.Small"
+    ],
+    "Nero Helmet": [
+        "Armor.Heavy",
+        "Armor.Sold by Station"
+    ],
+    "Nero Legs": [
+        "Armor.Heavy",
+        "Armor.Sold by Station"
+    ],
+    "Nero Torso": [
+        "Armor.Heavy",
+        "Armor.Sold by Station"
+    ],
+    "Nullifier Rounds I": [
+        "Modules.Weapon Rigs"
+    ],
+    "Nullifier Rounds II": [
+        "Modules.Weapon Rigs"
+    ],
+    "Overclocker II": [
+        "Modules.Subsystems"
+    ],
+    "Overclocker III": [
+        "Modules.Subsystems"
+    ],
+    "Overdrive-L I": [
+        "Modules.Subsytem"
+    ],
+    "Overdrive-L II": [
+        "Modules.Subsystems"
+    ],
+    "Overdrive-L III": [
+        "Modules.Subsystems"
+    ],
+    "Overdrive-M II": [
+        "Modules.Subsystems"
+    ],
+    "Overdrive-M III": [
+        "Modules.Subsystems"
+    ],
+    "Pants": [
+        "Clothing.Civilian"
+    ],
+    "Pants (CoreSec)": [
+        "Clothing.Uniform.CoreSec"
+    ],
+    "Pants (Foralkan Admiral)": [
+        "Clothing.Uniform.Foralkan"
+    ],
+    "Pants (Foralkan Command)": [
+        "Clothing.Uniform.Foralkan"
+    ],
+    "Pants (Foralkan)": [
+        "Clothing.Uniform.Foralkan"
+    ],
+    "Pants (Kavani Command)": [
+        "Clothing.Uniform.Kavani"
+    ],
+    "Pants (Kavani)": [
+        "Clothing.Uniform.Kavani"
+    ],
+    "Pants (Lycentian Admiral)": [
+        "Clothing.Uniform.Lycentian"
+    ],
+    "Pants (Lycentian Command)": [
+        "Clothing.Uniform.Lycentian"
+    ],
+    "Pants (Lycentian)": [
+        "Clothing.Uniform.Lycentian"
+    ],
+    "Pants (Mining Guild)": [
+        "Clothing.Uniform.Mining Guild"
+    ],
+    "Pants (Syndicate)": [
+        "Clothing.Uniform.Syndicate"
+    ],
+    "Pants (Trade Union)": [
+        "Clothing.Uniform.Trade Union"
+    ],
+    "Parallel Circuits I": [
+        "Modules.Reactor Rigs"
+    ],
+    "Parallel Circuits II": [
+        "Modules.Reactor Rigs"
+    ],
+    "Parallel Circuits III": [
+        "Modules.Reactor Rigs"
+    ],
+    "Parrot blueprint": [
+        "Blueprints"
+    ],
+    "Patcher Nanobots I": [
+        "Modules.Defense Rigs"
+    ],
+    "Patcher Nanobots II": [
+        "Modules.Defense Rigs"
+    ],
+    "Patcher Nanobots III": [
+        "Modules.Defense Rigs"
+    ],
+    "Phoenix Helmet": [
+        "Armor.Light"
+    ],
+    "Phoenix Legs": [
+        "Armor.Light"
+    ],
+    "Phoenix Torso": [
+        "Armor.Light"
+    ],
+    "Piranha blueprint": [
+        "Blueprints"
+    ],
+    "Precision Miner I": [
+        "Turrets.Miner"
+    ],
+    "Precision Miner II": [
+        "Turrets.Miner",
+        "Turrets.Small"
+    ],
+    "Railgun I": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Railgun II": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Railgun III": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Railgun-M I": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Railgun-M II": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Railgun-M III": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Rapid Bolt I": [
+        "Modules.Weapon Rigs"
+    ],
+    "Rapid Bolt II": [
+        "Modules.Weapon Rigs"
+    ],
+    "Rapid Bolt III": [
+        "Modules.Weapon Rigs"
+    ],
+    "Reflective Panels I": [
+        "Modules.Defense Rigs"
+    ],
+    "Reflective Panels II": [
+        "Modules.Defense Rigs"
+    ],
+    "Reflective Plating I": [
+        "Modules.Defense Rigs"
+    ],
+    "Reflective Plating II": [
+        "Modules.Defense Rigs"
+    ],
+    "Reflective Plating III": [
+        "Modules.Defense Rigs"
+    ],
+    "Reinforced Hull I": [
+        "Modules.Defense Rigs"
+    ],
+    "Reinforced Hull II": [
+        "Modules.Defense Rigs"
+    ],
+    "Reinforced Hull III": [
+        "Modules.Defense Rigs"
+    ],
+    "Rogue Helmet": [
+        "Armor.Light",
+        "Armor.Sold by Station"
+    ],
+    "Rogue Legs": [
+        "Armor.Light",
+        "Armor.Sold by Station"
+    ],
+    "Rogue Torso": [
+        "Armor.Light",
+        "Armor.Sold by Station"
+    ],
+    "Rounded bed": [
+        "Furniture.Beds"
+    ],
+    "Sensor Booster I": [
+        "Modules.Defense Rigs"
+    ],
+    "Sensor Booster II": [
+        "Modules.Defense Rigs"
+    ],
+    "Sensor Booster III": [
+        "Modules.Defense Rigs"
+    ],
+    "Sensor Jammer I": [
+        "Modules.Subsystems"
+    ],
+    "Servo Surge I": [
+        "Modules.Subsystems"
+    ],
+    "Servo Surge III": [
+        "Modules.Subsystems"
+    ],
+    "Shadow Helmet": [
+        "Armor.Light",
+        "Armor.Sold by Station"
+    ],
+    "Shadow Legs": [
+        "Armor.Light",
+        "Armor.Sold by Station"
+    ],
+    "Shadow Torso": [
+        "Armor.Light",
+        "Armor.Sold by Station"
+    ],
+    "Shield Amplifier I": [
+        "Modules.Defense Rigs"
+    ],
+    "Shield Amplifier II": [
+        "Modules.Defense Rigs"
+    ],
+    "Shield Amplifier III": [
+        "Modules.Defense Rigs"
+    ],
+    "Shield Booster I": [
+        "Modules.Subsystems"
+    ],
+    "Shield Booster II": [
+        "Modules.Subsystems"
+    ],
+    "Shield Booster III": [
+        "Modules.Subsystems"
+    ],
+    "Shrapnel I": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Shrapnel II": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Shrapnel III": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Shroud blueprint": [
+        "Blueprints"
+    ],
+    "Simple bed": [
+        "Furniture.Beds"
+    ],
+    "Simple chair": [
+        "Furniture.Seating"
+    ],
+    "Skeletonized Chassis I": [
+        "Modules.Defense Rigs"
+    ],
+    "Skeletonized Chassis II": [
+        "Modules.Defense Rigs"
+    ],
+    "Skeletonized Chassis III": [
+        "Modules.Defense Rigs"
+    ],
+    "Slab shelf": [
+        "Furniture.Shelves"
+    ],
+    "Snowy tree": [
+        "Furniture.Plants"
+    ],
+    "Stand light": [
+        "Furniture.electronics"
+    ],
+    "Standing shelf": [
+        "Furniture.Shelves"
+    ],
+    "Stasis Field I": [
+        "Modules.Subsystems"
+    ],
+    "Stasis Field II": [
+        "Modules.Subsystems"
+    ],
+    "Stasis Field III": [
+        "Modules.Subsystems"
+    ],
+    "Strip Miner I": [
+        "Turrets.Miner"
+    ],
+    "Strip Miner II": [
+        "Turrets.Miner",
+        "Turrets.Small"
+    ],
+    "Swift Bolt I": [
+        "Modules.Weapon Rigs"
+    ],
+    "Swift Bolt II": [
+        "Modules.Weapon Rigs"
+    ],
+    "Swift Bolt III": [
+        "Modules.Weapon Rigs"
+    ],
+    "T-shirt": [
+        "Clothing.Civilian"
+    ],
+    "Table": [
+        "Furniture.Tables"
+    ],
+    "Target Painter I": [
+        "Modules.Subsystems"
+    ],
+    "Target Painter II": [
+        "Modules.Subsystems"
+    ],
+    "Templar Helmet": [
+        "Armor.Light"
+    ],
+    "Templar Legs": [
+        "Armor.Light"
+    ],
+    "Templar Torso": [
+        "Armor.Light"
+    ],
+    "Tetra blueprint": [
+        "Blueprints"
+    ],
+    "Thresher blueprint": [
+        "Blueprints"
+    ],
+    "Toucan blueprint": [
+        "Blueprints"
+    ],
+    "Triazo blueprint": [
+        "Blueprints"
+    ],
+    "Ultralight Chassis I": [
+        "Modules.Defense Rigs"
+    ],
+    "Ultralight Chassis II": [
+        "Modules.Defense Rigs"
+    ],
+    "Ultralight Chassis III": [
+        "Modules.Defense Rigs"
+    ],
+    "Uniform (CoreSec)": [
+        "Clothing.Uniform.CoreSec"
+    ],
+    "Uniform (Foralkan Admiral)": [
+        "Clothing.Uniform.Foralkan"
+    ],
+    "Uniform (Foralkan Command)": [
+        "Clothing.Uniform.Foralkan"
+    ],
+    "Uniform (Foralkan)": [
+        "Clothing.Uniform.Foralkan"
+    ],
+    "Uniform (Kavani Command)": [
+        "Clothing.Uniform.Kavani"
+    ],
+    "Uniform (Kavani Marshal)": [
+        "Clothing.Uniform.Kavani"
+    ],
+    "Uniform (Kavani)": [
+        "Clothing.Uniform.Kavani"
+    ],
+    "Uniform (Lycentian Admiral)": [
+        "Clothing.Uniform.Lycentian"
+    ],
+    "Uniform (Lycentian)": [
+        "Clothing.Uniform.Lycentian"
+    ],
+    "Uniform (Mining Guild)": [
+        "Clothing.Uniform.Mining Guild"
+    ],
+    "Uniform (Syndicate)": [
+        "Clothing.Uniform.Syndicate"
+    ],
+    "Uniform (Trade Union)": [
+        "Clothing.Uniform.Trade Union"
+    ],
+    "Veil blueprint": [
+        "Blueprints"
+    ],
+    "Vesta blueprint": [
+        "Blueprints"
+    ],
+    "Virtue blueprint": [
+        "Blueprints"
+    ],
+    "Wall": [
+        "Furniture.Walls"
+    ],
+    "Wall (long)": [
+        "Furniture.Walls"
+    ],
+    "Warden Helmet": [
+        "Armor.Heavy"
+    ],
+    "Warden Legs": [
+        "Armor.Heavy"
+    ],
+    "Warden Torso": [
+        "Armor.Heavy"
+    ],
+    "Warp Charger I": [
+        "Modules.Engine Rigs"
+    ],
+    "Warp Charger II": [
+        "Modules.Engine Rigs"
+    ],
+    "Warp Charger III": [
+        "Modules.Engine Rigs"
+    ],
+    "Warp Field Amplifier I": [
+        "Modules.Engine Rigs"
+    ],
+    "Warp Field Amplifier II": [
+        "Modules.Engine Rigs"
+    ],
+    "Warp Field Amplifier III": [
+        "Modules.Engine Rigs"
+    ],
+    "Warp disruptor I": [
+        "Deployables.Combat"
+    ],
+    "Warp disruptor II": [
+        "Deployables.Combat"
+    ],
+    "Warp disruptor III": [
+        "Deployables.Combat"
+    ],
+    "Gellium": [
+        "Resources.Refined Ore"
+    ],
+    "Vexnium ore": [
+        "Resources.Ore"
+    ],
+    "Reknite": [
+        "Resources.Refined Ore"
+    ],
+    "Water": [
+        "Resources.Refined Ore"
+    ],
+    "Red Narcor ore": [
+        "Resources.Ore"
+    ],
+    "Axnit ore": [
+        "Resources.Ore"
+    ],
+    "Vexnium": [
+        "Resources.Refined Ore"
+    ],
+    "Water ice": [
+        "Resources.Ore"
+    ],
+    "Axnit": [
+        "Resources.Refined Ore"
+    ],
+    "Narcor": [
+        "Resources.Refined Ore"
+    ],
+    "Narcor ore": [
+        "Resources.Ore"
+    ],
+    "Axnit (pristine)": [
+        "Resources.Ore"
+    ],
+    "Gellium ore": [
+        "Resources.Ore"
+    ],
+    "Korrelite": [
+        "Resources.Refined Ore"
+    ],
+    "Red Narcor": [
+        "Resources.Refined Ore"
+    ],
+    "Reknite (inferior)": [
+        "Resources.Ore"
+    ],
+    "Reknite ore": [
+        "Resources.Ore"
+    ],
+    "Korrelite ore": [
+        "Resources.Ore"
+    ],
+    "Korrelite (inferior)": [
+        "Resources.Ore"
+    ],
+    "Korrelite (pristine)": [
+        "Resources.Ore"
+    ],
+    "Reknite (superior)": [
+        "Resources.Ore"
+    ],
+    "Gellium (superior)": [
+        "Resources.Ore"
+    ],
+    "Gellium (pristine)": [
+        "Resources.Ore"
+    ],
+    "Korrelite (superior)": [
+        "Resources.Ore"
+    ],
+    "Gellium (inferior)": [
+        "Resources.Ore"
+    ],
+    "Reknite (pristine)": [
+        "Resources.Ore"
+    ],
+    "Drone command core": [
+        "Resources.Drone",
+        "Salvage.Faction Points",
+        "Salvage.Drone"
+    ],
+    "Drone core": [
+        "Resources.Drone",
+        "Salvage.Faction Points",
+        "Salvage.Drone"
+    ],
+    "Power cell": [
+        "Resources.Junk"
+    ],
+    "Metal scraps": [
+        "Resources.Junk"
+    ],
+    "Lycentian Mission Log": [
+        "Salvage.Faction Points"
+    ],
+    "Crate of Exotic Goods": [
+        "Salvage.Faction Points"
+    ],
+    "Contraband weapons": [
+        "Salvage.Faction Points"
+    ],
+    "Stolen artifacts": [
+        "Salvage.Faction Points"
+    ],
+    "Kavani Mission Log": [
+        "Salvage.Faction Points"
+    ],
+    "Crate of Rare Ore": [
+        "Salvage.Faction Points"
+    ],
+    "Contraband goods": [
+        "Salvage.Faction Points"
+    ],
+    "Lycentian Insignia": [
+        "Salvage.Faction Points"
+    ],
+    "Damaged Spaceship Parts": [
+        "Salvage.Cargo"
+    ],
+    "Foralkan Insignia": [
+        "Salvage.Faction Points"
+    ],
+    "Foralkan Mission Log": [
+        "Salvage.Faction Points"
+    ],
+    "Kavani Insignia": [
+        "Salvage.Faction Points"
+    ],
+    "Damaged Fuel": [
+        "Salvage.Cargo"
+    ],
+    "Damaged Spice (Silver)": [
+        "Salvage.Cargo"
+    ],
+    "Damaged supplies": [
+        "Salvage.Cargo"
+    ],
+    "Shipping Manifest": [
+        "Salvage.Faction Points"
+    ],
+    "Damaged Medical Supplies": [
+        "Salvage.Cargo"
+    ],
+    "Damaged Spice (Blue)": [
+        "Salvage.Cargo"
+    ],
+    "Damaged Spice (Ruby)": [
+        "Salvage.Cargo"
+    ],
+    "Damaged Spice (Yellow)": [
+        "Salvage.Cargo"
+    ],
+    "Damaged Spice (Purple)": [
+        "Salvage.Cargo"
+    ],
+    "Damaged Spice (Amethyst)": [
+        "Salvage.Cargo"
+    ],
+    "Damaged Spice (Amber)": [
+        "Salvage.Cargo"
+    ],
+    "Damaged Spice (Orange)": [
+        "Salvage.Cargo"
+    ],
+    "Damaged Spice (Red)": [
+        "Salvage.Cargo"
+    ],
+    "Damaged Spice (Jasper)": [
+        "Salvage.Cargo"
+    ],
+    "Damaged Spice (Sapphire)": [
+        "Salvage.Cargo"
+    ],
+    "Elite drone core": [
+        "Salvage.Faction Points",
+        "Salvage.Drone"
+    ],
+    "Adv drone core": [
+        "Salvage.Faction Points",
+        "Salvage.Drone"
+    ],
+    "Foralkan Helmet": [
+        "Salvage.Faction Points"
+    ],
+    "Kavani Helmet": [
+        "Salvage.Faction Points"
+    ],
+    "Lycentian Helmet": [
+        "Salvage.Faction Points"
+    ],
+    "Adamant": [
+        "Ships.Frigates"
+    ],
+    "Astero": [
+        "Ships.Hauler"
+    ],
+    "Aurora": [
+        "Ships.Fighters"
+    ],
+    "Badger": [
+        "Ships.Miners"
+    ],
+    "Barracuda": [
+        "Ships.Frigates"
+    ],
+    "Bison": [
+        "Ships.Haulers"
+    ],
+    "Bulwark": [
+        "Ships.Destroyers"
+    ],
+    "Candiru": [
+        "Ships.Interceptors"
+    ],
+    "Chevron": [
+        "Ships.Corvettes"
+    ],
+    "Claymore": [
+        "Ships.Fighters"
+    ],
+    "Conciliator": [
+        "Ships.Destroyers"
+    ],
+    "Echelon": [
+        "Ships.Destroyers"
+    ],
+    "Edict": [
+        "Ships.Corvettes"
+    ],
+    "Eos": [
+        "Ships.Miners"
+    ],
+    "Falcon": [
+        "Ships.Interceptors"
+    ],
+    "Fortitude": [
+        "Ships.Destroyers"
+    ],
+    "Galaxy": [
+        "Ships.Haulers"
+    ],
+    "Halo": [
+        "Ships.Frigates"
+    ],
+    "Honey Badger": [
+        "Ships.Miners"
+    ],
+    "Horizon": [
+        "Ships.Destroyers"
+    ],
+    "Hornbill": [
+        "Ships.Fighters"
+    ],
+    "Hybrid Claymore": [
+        "Ships.Fighters"
+    ],
+    "Hybrid Luminar": [
+        "Ships.Fighters"
+    ],
+    "Hybrid Paragon": [
+        "Ships.Fighters"
+    ],
+    "Hybrid Polaris": [
+        "Ships.Fighters"
+    ],
+    "Hyrax": [
+        "Ships.Haulers"
+    ],
+    "Infinity": [
+        "Ships.Corvette"
+    ],
+    "Judicator": [
+        "Ships.Frigates"
+    ],
+    "Justice": [
+        "Ships.Destroyers"
+    ],
+    "Knifejaw": [
+        "Ships.Corvettes"
+    ],
+    "Kodiak": [
+        "Ships.Miners"
+    ],
+    "Koronis": [
+        "Ships.Miners"
+    ],
+    "Liberty": [
+        "Ships.Corvettes"
+    ],
+    "Loxodon": [
+        "Ships.Destroyers"
+    ],
+    "Lucent": [
+        "Ships.Fighters"
+    ],
+    "Luster": [
+        "Ships.Fighters"
+    ],
+    "Macaw": [
+        "Ships.Interceptors"
+    ],
+    "Mackerel": [
+        "Ships.Interceptors"
+    ],
+    "Mako": [
+        "Ships.Miners"
+    ],
+    "Marlin": [
+        "Ships.Miners"
+    ],
+    "Ozark": [
+        "Ships.Miners"
+    ],
+    "Paragon": [
+        "Ships.Interceptors"
+    ],
+    "Parrot": [
+        "Ships.Interceptors"
+    ],
+    "Phalanx": [
+        "Ships.Frigates"
+    ],
+    "Piranha": [
+        "Ships.Fighters"
+    ],
+    "Polaris": [
+        "Ships.Fighters"
+    ],
+    "Radix": [
+        "Ships.Corvettes"
+    ],
+    "Rhino": [
+        "Ships.Haulers"
+    ],
+    "Sabre": [
+        "Ships.Fighters"
+    ],
+    "Shroud": [
+        "Ships.Haulers"
+    ],
+    "Tetra": [
+        "Ships.Interceptors"
+    ],
+    "Thresher": [
+        "Ships.Fighters"
+    ],
+    "Toucan": [
+        "Ships.Fighters"
+    ],
+    "Triazo": [
+        "Ships.Interceptors"
+    ],
+    "Veil": [
+        "Ships.Haulers"
+    ],
+    "Vesta": [
+        "Ships.Miners"
+    ],
+    "Virtue": [
+        "Ships.Frigates"
+    ],
+    "Yukon": [
+        "Ships.Miners"
+    ],
+    "Zenith": [
+        "Ships.Interceptors"
+    ],
+    "Zubron": [
+        "Ships.Haulers"
+    ],
+    "Ancient Coilgun": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Ancient Coilgun-M": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Ancient Railgun": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Ancient Railgun-M": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Dread Coilgun": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Dread Coilgun-M": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Dread Flak": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Dread Railgun": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Dread Railgun-M": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Dread Shrapnel": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Hybrid Beam": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Hybrid Beam-M": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Hybrid Blaster": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Hybrid Blaster-M": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Hybrid Cannon": [
+        "Turrets.Combat",
+        "Turrets.Small"
+    ],
+    "Hybrid Cannon-M": [
+        "Turrets.Combat",
+        "Turrets.Medium"
+    ],
+    "Disintegrex": [
+        "Weapons.Pistol"
+    ],
+    "Explosive I": [
+        "Weapons.Grenade",
+        "Weapons.Sold by Station"
+    ],
+    "FG-88": [
+        "Weapons.Rifle"
+    ],
+    "Gal-31": [
+        "Weapons.Rifle",
+        "Weapons.Sold by Station"
+    ],
+    "Gal-32": [
+        "Weapons.Rifle"
+    ],
+    "Gal-33": [
+        "Weapons.Rifle"
+    ],
+    "H3-X": [
+        "Weapons.Rifle"
+    ],
+    "Hyper G1": [
+        "Weapons.Pistol",
+        "Weapons.Sold by Station"
+    ],
+    "Hyper G2": [
+        "Weapons.Pistol"
+    ],
+    "Hyper X9": [
+        "Weapons.Pistol"
+    ],
+    "LG0-T": [
+        "Weapons.Rifle",
+        "Weapons.Sold by Station"
+    ],
+    "LGS-T": [
+        "Weapons.Rifle"
+    ],
+    "LG5-T": [
+        "Weapons.Rifle"
+    ],
+    "LG9-T": [
+        "Weapons.Rifle"
+    ],
+    "Orin 377": [
+        "Weapons.Pistol"
+    ],
+    "Orin 388": [
+        "Weapons.Pistol"
+    ],
+    "Orin 399": [
+        "Weapons.Pistol"
+    ],
+    "Poison I": [
+        "Weapons.Grenade",
+        "Weapons.Sold by Station"
+    ],
+    "RR-5000": [
+        "Weapons.Rifle"
+    ],
+    "SSLB": [
+        "Weapons.Rifle"
+    ],
+    "Smoke I": [
+        "Weapons.Grenade",
+        "Weapons.Sold by Station"
+    ],
+    "Snowball": [
+        "Weapons.Grenade"
+    ],
+    "Trila 3": [
+        "Weapons.Rifle"
+    ],
+    "Ancient drone core": [
+        "No use"
+    ],
+    "Crystal shard": [
+        "No use"
+    ],
+    "Ancient beacon": [
+        "Salvage.Ancient"
+    ],
+    "Heat Sink": [
+        "Resources.Junk"
+    ],
+    "Ethereal (Ozark)": [
+        "Skins"
+    ],
+    "Ethereal (Halo)": [
+        "Skins"
+    ],
+    "Ethereal (Edict)": [
+        "Skins"
+    ],
+    "Ethereal (Paragon)": [
+        "Skins"
+    ],
+    "Ethereal (Kodiak)": [
+        "Skins"
+    ],
+    "Ethereal (Barracuda)": [
+        "Skins"
+    ],
+    "Ethereal (Stratos)": [
+        "Skins"
+    ],
+    "Ethereal (Radix)": [
+        "Skins"
+    ],
+    "Ethereal (Zubron)": [
+        "Skins"
+    ],
+    "Ethereal (Claymore)": [
+        "Skins"
+    ],
+    "Ethereal (Polaris)": [
+        "Skins"
+    ],
+    "Ethereal (Virtue)": [
+        "Skins"
+    ],
+    "Ethereal (Luminar)": [
+        "Skins"
+    ],
+    "Ethereal (Judicator)": [
+        "Skins"
+    ],
+    "Ethereal (Knifejaw)": [
+        "Skins"
+    ],
+    "Ethereal (Dolphin)": [
+        "Skins"
+    ],
+    "Ethereal (Phalanx)": [
+        "Skins"
+    ],
+    "Ethereal (Liberty)": [
+        "Skins"
+    ],
+    "Dread Warp Field Amplifier": [
+        "Modules.Engine Rigs"
+    ],
+    "Hybrid Heavy Bolt": [
+        "Modules.Weapon Rigs"
+    ],
+    "Dread Reflective Panels": [
+        "Modules.Defense Rigs"
+    ],
+    "Dread Reflective Plating": [
+        "Modules.Defense Rigs"
+    ],
+    "Dread Energy Booster": [
+        "Modules.Subsystems"
+    ],
+    "Hybrid Enhanced Deflectors": [
+        "Modules.Defense Rigs"
+    ],
+    "Hybrid Hardlight Shields": [
+        "Modules.Defense Rigs"
+    ],
+    "Ancient Hull Booster": [
+        "Modules.Subsystems"
+    ],
+    "Dread Nullifier Rounds": [
+        "Modules.Weapon Rigs"
+    ],
+    "Dread Exhaust Restrictor": [
+        "Modules.Engine Rigs"
+    ],
+    "Dread Ultralight Chassis": [
+        "Modules.Defense Rigs"
+    ],
+    "Hybrid Engine Gimbals": [
+        "Modules.Engine Rigs"
+    ],
+    "Ancient Light Armor Booster": [
+        "Modules.Subsystems"
+    ],
+    "Hybrid Shield Amplifier": [
+        "Modules.Defense Rigs"
+    ],
+    "Luminar": [
+        "Ships.Fighters"
+    ],
+    "Ice Miner II blueprint": [
+        "Blueprint"
+    ],
+    "Dread Blink Drive": [
+        "Modules.Subsystems"
+    ],
+    "Hybrid Medium Shield Repairer": [
+        "Modules.Subsystemss"
+    ],
+    "Hybrid Enhanced Servos": [
+        "Modules.Weapon Rigs"
+    ],
+    "Dread Heavy Sensor Janmer": [
+        "Module.Subsystems"
+    ],
+    "Dread Reinforced Hull": [
+        "Modules.Defense Rigs"
+    ],
+    "Ancient Heavy Armor Booster": [
+        "Modules.Subsystems"
+    ],
+    "Ancient Lightweight Engines": [
+        "Modules.Engine Rigs"
+    ],
+    "Hybrid Parallel Circuits": [
+        "Modules.Reactor Rigs"
+    ],
+    "Yuma": [
+        "Ships.Vendors"
+    ],
+    "Hybrid Ion blueprint": [
+        "Blueprint"
+    ],
+    "Hybrid Heavy Shield Repairer": [
+        "Modules.Subsystems"
+    ],
+    "Ancient Medium Armor Booster": [
+        "Modules.Subsystems"
+    ],
+    "Hybrid Stasis Field": [
+        "Modules.Subsystems"
+    ],
+    "Dread Warp Charger": [
+        "Modules.Engine Rigs"
+    ],
+    "Hybrid Rapid Bolt": [
+        "Modules.Weapon Rigs"
+    ],
+    "Dread Heavy Hull Repairer": [
+        "Modules.Subsystems"
+    ],
+    "Dread Light Hull Repairer": [
+        "Modules.Subsystems"
+    ],
+    "Kavani Targeter I": [
+        "Modules.Weapon Rigs"
+    ],
+    "Spacemine I": [
+        "Deployables.Combat"
+    ],
+    "Dread Sensor Janmer": [
+        "Modules.Subsystems"
+    ],
+    "Dread Medium Hull Repairer": [
+        "Modules.Subsystems"
+    ],
+    "Precision Miner II blueprint": [
+        "Blueprint"
+    ],
+    "Dread Heat Sink": [
+        "Modules.Weapon Rigs"
+    ],
+    "Hybrid Overclocker": [
+        "Modules.Subsystems"
+    ],
+    "Dread Light Sensor Janmer": [
+        "Modules.Subsystems"
+    ],
+    "Hybrid Battery": [
+        "Modules.Reactor Rigs"
+    ],
+    "Dread AP Rounds": [
+        "Modules.Weapon Rigs"
+    ],
+    "Hybrid Light Shield Repairer": [
+        "Modules.Subsystems"
+    ],
+    "Hybrid Shield Booster": [
+        "Modules.Subsystems"
+    ],
+    "Hybrid Sensor Booster": [
+        "Modules.Defense Rigs"
+    ],
+    "Dread Skeletonized Chassis": [
+        "Modules.Defense Rigs"
+    ],
+    "Ancient HE Rounds": [
+        "Modules.Weapon Rigs"
+    ],
+    "Strip Miner II blueprint": [
+        "Blueprint"
+    ],
+    "Ancient Overclocker": [
+        "Modules.Subsystems"
+    ],
+    "Dread Servo Surge": [
+        "Modules.Subsystems"
+    ],
+    "Hybrid Patcher Nanobots": [
+        "Modules.Defense Rigs"
+    ],
+    "Ancient Composite Armor": [
+        "Modules.Defense Rigs"
+    ],
+    "Fargo": [
+        "Ships.Vendors"
+    ],
+    "Hybrid Disruptor": [
+        "Modules.Subsystems"
+    ],
+    "Hybrid Swift Bolt": [
+        "Modules.Weapon Rigs"
+    ],
+    "Dread Disruptor": [
+        "Modules.Subsystems"
+    ],
+    "Prospector I": [
+        "Turrets.Miner"
+    ],
+    "Kavani Targeter II": [
+        "Modules.Weapon Rigs"
+    ],
+    "Ancient Overdrive-M": [
+        "Modules.Subsystems"
+    ],
+    "Ancient Overdrive-L": [
+        "Modules.Subsystems"
+    ],
+    "Ancient Afterburner-S": [
+        "Modules.Subsystems"
+    ],
+    "Ancient Lightburner-L": [
+        "Modules.Subsystems"
+    ],
+    "Ancient Lightburner-S": [
+        "Modules.Subsystems"
+    ],
+    "Hybrid Ion-M blueprint": [
+        "Blueprint"
+    ],
+    "Hybrid Overdrive-M": [
+        "Modules.Subsystems"
+    ],
+    "Hybrid Afterburner-S": [
+        "Modules.Subsystems"
+    ],
+    "Ancient Lightburner-M": [
+        "Modules.Subsystems"
+    ],
+    "Hybrid Overdrive-L": [
+        "Modules.Subsystems"
+    ]
+}
